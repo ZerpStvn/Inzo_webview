@@ -1,0 +1,1 @@
+The .scss (Sass) files are only available for the author.
